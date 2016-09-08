@@ -1,0 +1,25 @@
+{
+  "name": "hub",
+  "version": "0.0.1",
+  "description": "Server for bastion hosts to exchange ciphered data.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/R-Vision/hub.git"
+  },
+  "keywords": [
+    "ciphered",
+    "data",
+    "exchange",
+    "server"
+  ],
+  "author": "Dzenly <alexchem@yandex.ru>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/R-Vision/hub/issues"
+  },
+  "homepage": "https://github.com/R-Vision/hub#readme"
+}
